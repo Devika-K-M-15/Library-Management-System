@@ -1,2 +1,5 @@
-# Library-Management-System
-A MySQL Project for Library Management.
+
+Library Management System
+
+Library Management System is a system which maintains the information about the books in the library, Customers, Issued and Returned books, Library Branches and employees.
+
